@@ -1,19 +1,18 @@
-Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Mateus
-===============================================================================================================================
+# 💫 About Me:
+I’m Mateus, a Machine Learning Engineering intern with a focus on Back-end Development. I’m currently working on projects involving machine learning models and backend systems. I’m looking to collaborate on AI-driven, API, and data-focused projects. I’m interested in improving my skills in model deployment and system scalability. Right now, I’m learning more about Deep Learning and advanced backend architecture. Feel free to ask me about Java, Python, SQL, or how to integrate machine learning into real-world applications. Fun fact: I love turning data into something that actually thinks.
 
-Sou estagiário em Engenharia de Machine Learning | Desenvolvimento Back-end | Java | JavaScript | HTML | C | C# | SQL
------------------------------------------------------------------------------------------------------------------
 
-* 🌍 Estou radicado em Brasília
-* ⁇ ️ Você pode entrar em contato comigo em [mateus.prestes.contato@gmail.com](mailto:mateus.prestes.contato@gmail.com)
-* 🧠 Atualmente estou aprendendo Power BI e técnicas avançadas de análise de dados
-* 👥 Estou querendo colaborar no Projetos de back-end, machine learning e automação de dados
-* 💬 Pergunte-me sobre o Curioso por tecnologia e movimento a desafios sempre buscando apreender algo novo
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/teuzlins_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-de-lima-lins-304a812b7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/u/3/#inbox) 
 
-<p align="esquerda">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Teuzlins&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Teuzlins&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Teuzlins&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Sociais
+---
+[![](https://visitcount.itsvg.in/api?id=Teuzlins&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="esquerda"> <a href="https://www.github.com/TeuzLins" target="_blank" rel="noreferrer"> <foto> <source media="(prefere-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefere-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </foto> </a> <a href="https://www.linkedin.com/in/mateus-de-lima-lins-304a812b7" target="_blank" rel="noreferrer"> <foto> <source media="(prefere-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefere-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </foto> </a></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
