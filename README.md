@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m Mateus, a Machine Learning Engineering intern with a focus on Back-end Development. I’m currently working on projects involving machine learning models and backend systems. I’m looking to collaborate on AI-driven, API, and data-focused projects. I’m interested in improving my skills in model deployment and system scalability. Right now, I’m learning more about Deep Learning and advanced backend architecture. Feel free to ask me about Java, Python, SQL, or how to integrate machine learning into real-world applications. Fun fact: I love turning data into something that actually thinks.
+Sou o Mateus, estagiário em Engenharia de Machine Learning com foco em Desenvolvimento Back-end.
+Atualmente, estou trabalhando em projetos que envolvem modelos de aprendizado de máquina e sistemas de back-end.
+Busco colaborar em projetos voltados para inteligência artificial, APIs e análise de dados.
+
+Tenho interesse em aprimorar minhas habilidades em implantação de modelos e escalabilidade de sistemas.
+Neste momento, estou aprendendo mais sobre Deep Learning e arquitetura avançada de back-end.
 
 
 ## 🌐 Socials:
