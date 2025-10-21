@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>Sou o Mateus, estagiário em Engenharia de Machine Learning com foco em Desenvolvimento Back-end.<br>Atualmente, estou trabalhando em projetos que envolvem modelos de aprendizado de máquina e sistemas de back-end.<br>Busco colaborar em projetos voltados para inteligência artificial, APIs e análise de dados.<br><br>Tenho interesse em aprimorar minhas habilidades em implantação de modelos e escalabilidade de sistemas.<br>Neste momento, estou aprendendo mais sobre Deep Learning e arquitetura avançada de back-end.
+<br>Sou o Mateus, estagiário em Engenharia de Machine Learning com foco em Desenvolvimento Back-end.<br>Atualmente, estou trabalhando em projetos que envolvem modelos de aprendizado de máquina e sistemas de back-end.<br>Busco colaborar em projetos voltados para inteligência artificial, APIs e análise de dados.<br><br>Tenho interesse em aprimorar minhas habilidades em implantação de modelos e escalabilidade de sistemas.<br>Neste momento, estou aprendendo mais sobre Deep Learning e arquitetura avançada de back-end.
 
 
 ## 🌐 Socials:
