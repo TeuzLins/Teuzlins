@@ -1,4 +1,4 @@
-![github-user-contribution](https://github.com/user-attachments/assets/60751497-5837-4cd4-ae6b-7a4652440f9c)# About Me:
+# About Me:
 <br>Sou o Mateus, Engenheiro de Machine Learning com foco em Desenvolvimento Back-end.<br>Atualmente, estou trabalhando em projetos que envolvem modelos de aprendizado de máquina e sistemas de back-end.<br>Busco colaborar em projetos voltados para inteligência artificial, APIs e análise de dados.<br><br>Tenho interesse em aprimorar minhas habilidades em implantação de modelos e escalabilidade de sistemas.<br>Neste momento, estou aprendendo mais sobre Deep Learning e arquitetura avançada de back-end.
 
 
@@ -13,3 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=teuzlins&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=teuzlins&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzlins&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+![github-user-contribution](https://github.com/user-attachments/assets/60751497-5837-4cd4-ae6b-7a4652440f9c)
