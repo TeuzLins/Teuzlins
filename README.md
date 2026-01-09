@@ -4,7 +4,12 @@
   </a>
 </div>
 
-<img width="1536" height="1024" alt="teuz" src="https://github.com/user-attachments/assets/1e94f728-f701-4485-b16b-fbd07dff573d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e94f728-f701-4485-b16b-fbd07dff573d"
+       alt="Mateus Prestes - Backend Developer"
+       width="700" />
+</p>
+
 
 
 
