@@ -6,8 +6,10 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e94f728-f701-4485-b16b-fbd07dff573d"
-       width="200" />
+       alt="Mateus Prestes - Backend Developer"
+       width="300" />
 </p>
+
 
 
 
