@@ -1,12 +1,32 @@
 # About Me:
-<br>Sou o Mateus, Engenheiro de Machine Learning com foco em Desenvolvimento Back-end.<br>Atualmente, estou trabalhando em projetos que envolvem modelos de aprendizado de máquina e sistemas de back-end.<br>Busco colaborar em projetos voltados para inteligência artificial, APIs e análise de dados.<br><br>Tenho interesse em aprimorar minhas habilidades em implantação de modelos e escalabilidade de sistemas.<br>Neste momento, estou aprendendo mais sobre Deep Learning e arquitetura avançada de back-end.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como estagiário back-end, desenvolvendo APIs no SERPRO.<br>
+Tenho foco em criar soluções seguras, escaláveis e bem estruturadas, seguindo boas práticas de desenvolvimento e arquitetura.<br><br>
 
+Atualmente trabalho com:<br>
+Desenvolvimento de APIs REST<br>
+Integração entre sistemas<br>
+Manutenção e evolução de serviços back-end<br><br>
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/teuzlins_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/mateus-de-lima-lins-304a812b7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateus.prestes.contato@gmail.com) 
+Estou aprendendo:<br>
+Arquitetura de software e Clean Architecture<br>
+Segurança em APIs (JWT, autenticação e autorização)<br>
+Cloud Computing e boas práticas de deploy<br>
+Versionamento de código e práticas de DevOps<br><br>
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Experiência:<br>
+Desenvolvimento e manutenção de serviços back-end no setor público<br>
+Trabalho com código alinhado a padrões e boas práticas do mercado
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:mateus.prestes.contato@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mateus-de-lima-lins-prestes-304a812b7/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/teuzlins_/)
+
+# <h3 align="left">Tech Stack:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,java,git,github,vscode,html,css,js,ts,docker,react,linux,postgresql&perline=7" />
+  </a>
+</p>
 
 
 # GitHub Stats:
