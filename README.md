@@ -2,18 +2,16 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como estagiário back-end, desenvolvendo APIs no SERPRO.<br>
 Tenho foco em criar soluções seguras, escaláveis e bem estruturadas, seguindo boas práticas de desenvolvimento e arquitetura.<br><br>
 
-Atualmente trabalho com:<br>
+• Atualmente trabalho com:<br>
 Desenvolvimento de APIs REST<br>
 Integração entre sistemas<br>
 Manutenção e evolução de serviços back-end<br><br>
-
-Estou aprendendo:<br>
+• Estou aprendendo:<br>
 Arquitetura de software e Clean Architecture<br>
 Segurança em APIs (JWT, autenticação e autorização)<br>
 Cloud Computing e boas práticas de deploy<br>
 Versionamento de código e práticas de DevOps<br><br>
-
-Experiência:<br>
+• Experiência:<br>
 Desenvolvimento e manutenção de serviços back-end no setor público<br>
 Trabalho com código alinhado a padrões e boas práticas do mercado
 
