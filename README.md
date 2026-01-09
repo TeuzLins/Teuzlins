@@ -1,4 +1,9 @@
-# About Me:
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4DA3FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como estagiário back-end, desenvolvendo APIs no SERPRO.<br>
 Tenho foco em criar soluções seguras, escaláveis e bem estruturadas, seguindo boas práticas de desenvolvimento e arquitetura.<br><br>
 
