@@ -4,6 +4,10 @@
   </a>
 </div>
 
+<img width="1536" height="1024" alt="teuz" src="https://github.com/user-attachments/assets/1e94f728-f701-4485-b16b-fbd07dff573d" />
+
+
+
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como estagiário back-end, desenvolvendo APIs no SERPRO.<br>
 Tenho foco em criar soluções seguras, escaláveis e bem estruturadas, seguindo boas práticas de desenvolvimento e arquitetura.<br><br>
 
