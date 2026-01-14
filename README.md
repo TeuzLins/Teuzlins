@@ -44,18 +44,10 @@ Trabalho com código alinhado a padrões e boas práticas do mercado
 </p>
 
 
-## GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moonshinerd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moonshinerd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moonshinerd&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
-</div>
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=teuzlins&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=teuzlins&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzlins&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ![github-user-contribution](https://github.com/user-attachments/assets/60751497-5837-4cd4-ae6b-7a4652440f9c)
 
