@@ -5,6 +5,11 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=header"/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+C%23+%7C+.NET+%7C+Node.js+%7C+REST+APIs+%7C+JWT+%7C+SQL+Server+%7C+PostgreSQL+%7C+Clean+Architecture+%7C+SOLID" alt="Typing SVG" />
+</div>
+
+
 
 
 
