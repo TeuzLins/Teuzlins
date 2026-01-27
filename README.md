@@ -60,4 +60,4 @@ Trabalho com código alinhado a padrões e boas práticas do mercado
 
 ![github-user-contribution](https://github.com/user-attachments/assets/60751497-5837-4cd4-ae6b-7a4652440f9c)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4DA3FF&height=120&section=footer"/>
