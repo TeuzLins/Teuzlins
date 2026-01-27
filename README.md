@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4DA3FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4DA3FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=header"/>
+
 
 
 
@@ -60,4 +61,4 @@ Trabalho com código alinhado a padrões e boas práticas do mercado
 
 ![github-user-contribution](https://github.com/user-attachments/assets/60751497-5837-4cd4-ae6b-7a4652440f9c)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4DA3FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=footer"/>
