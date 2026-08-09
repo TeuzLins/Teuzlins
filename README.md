@@ -86,13 +86,44 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Softwa
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 GitHub Statistics
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TeuzLins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeuzLins&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeuzLins&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
+  <img
+    width="49%"
+    height="195px"
+    src="https://github-readme-stats.vercel.app/api?username=TeuzLins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=FFFFFF"
+    alt="Estatísticas do GitHub de Mateus"
+  />
+  <img
+    width="49%"
+    height="195px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuzLins&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,20,30&height=120&section=footer"/>
+<br>
+
+<div align="center">
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TeuzLins&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=BF91F3&point=FFFFFF"
+    alt="Gráfico de contribuições"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=TeuzLins&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="Sequência de contribuições"
+  />
+</div>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,50:7B2CBF,100:BF91F3&height=110&section=footer"
+  alt="Rodapé"
+/>
