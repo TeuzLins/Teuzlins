@@ -6,7 +6,7 @@
 </div>
 <br>
 
-## ⚡ TEUZ AI CORE
+## ⚡ TEUZ DEV SYSTEM
 
 ```yaml
 > TEUZ_SYSTEM v2.0
