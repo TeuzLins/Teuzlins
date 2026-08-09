@@ -28,8 +28,12 @@ STATUS: ONLINE ●
 
 <div align="center">
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e **desenvolvedor back-end**.  
-Foco em soluções seguras, escaláveis e bem estruturadas.
+<div align="center">
+
+Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software** (2ª graduação).  
+**Desenvolvedor back-end** com foco em soluções seguras, escaláveis e bem estruturadas.
+
+</div>
 
 </div>
 
