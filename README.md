@@ -2,9 +2,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,20,30&height=200&section=header&text=TEUZ&fontColor=ffffff&fontSize=80&animation=fadeIn&desc=WELCOME%20TO%20MY%20CODE%20UNIVERSE&descSize=18&descAlignY=68"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4DA3FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+SERPRO;APIs+REST+%7C+Clean+Architecture;Seguran%C3%A7a+%7C+Cloud+%7C+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4DA3FF&center=true&vCenter=true&width=700&lines=Backend+Developer;APIs+REST+%7C+Clean+Architecture;Seguran%C3%A7a+%7C+Cloud+%7C+DevOps" alt="Typing SVG" />
 </div>
-
 <br>
 
 ## ⚡ TEUZ AI CORE
