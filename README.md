@@ -125,13 +125,19 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Softwa
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-snake.svg">
-    <img width="100%"
-      src="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-snake.svg"
-      alt="Contribution Snake">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      width="100%"
+      src="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-contribution-grid-snake.svg"
+      alt="Contribution Snake"
+    />
   </picture>
 </div>
 <img
