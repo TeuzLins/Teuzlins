@@ -30,7 +30,12 @@ STATUS: ONLINE ●
 
 <div align="center">
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software** (2ª graduação).  
+<div align="center">
+
+Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software** (2ª graduação) no **UniCEUB**.  
+**Desenvolvedor back-end** com foco em soluções seguras, escaláveis e bem estruturadas.
+
+</div>Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software** (2ª graduação).  
 **Desenvolvedor back-end** com foco em soluções seguras, escaláveis e bem estruturadas.
 
 </div>
