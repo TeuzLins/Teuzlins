@@ -26,8 +26,12 @@ STATUS: ONLINE ●
 
 <div align="center">
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e estagiário **back-end** no **SERPRO**.  
+<div align="center">
+
+Estudante de **Análise e Desenvolvimento de Sistemas** e **desenvolvedor back-end**.  
 Foco em soluções seguras, escaláveis e bem estruturadas.
+
+</div>
 
 </div>
 
