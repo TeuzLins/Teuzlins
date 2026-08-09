@@ -86,7 +86,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Softwa
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 GitHub Statistics
-## 📊 GitHub Statistics
 
 <div align="center">
   <img
