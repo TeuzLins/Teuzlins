@@ -13,6 +13,7 @@
 > Initializing system... ████████████████ 100%
 
   ✔ Backend developer detected
+  ✔ ADS + Eng. de Software loaded
   ✔ APIs REST enabled
   ✔ Clean Architecture activated
   ✔ Security modules (JWT) loaded
