@@ -85,6 +85,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Softwa
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TeuzLins&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
