@@ -52,7 +52,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Softwa
 
 ## 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TeuzLins&theme=tokyonight&column=7&margin-w=8&margin-h=8"/>
+  <img src="https://github-trophies.devomb.com/?username=TeuzLins&theme=tokyonight&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 ## 📈 Contribution Graph
