@@ -139,45 +139,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Softwa
       alt="Contribution Snake"
     />
   </picture>
-</div>## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-snake.svg"
-    />
-    <img
-      width="100%"
-      src="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-snake.svg"
-      alt="Contribution Snake"
-    />
-  </picture>
-</div>## 🐍 Contribution Snake
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-snake.svg"
-    />
-    <img
-      width="100%"
-      src="https://raw.githubusercontent.com/TeuzLins/TeuzLins/output/github-snake.svg"
-      alt="Contribution Snake"
-    />
-  </picture>
-</div>
+</div>## 
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,50:7B2CBF,100:BF91F3&height=110&section=footer"
