@@ -126,6 +126,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Softwa
   />
 </div>
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TeuzLins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=percentile"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeuzLins&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
