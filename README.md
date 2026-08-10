@@ -159,6 +159,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Softwa
   </picture>
 </div>## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <div align="center">
   <picture>
     <source
