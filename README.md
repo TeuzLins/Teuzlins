@@ -116,26 +116,26 @@ principles:
 <div align="center">
   <picture>
      <img
-    src="https://github-stats-extended.vercel.app/api?username=murilobarbosaa&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=00000000&hide_border=true&cache_seconds=86400&custom_title=TeuzLins%27s%20Github%20Stats"
+    src="https://github-stats-extended.vercel.app/api?username=TeuzLins&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=00000000&hide_border=true&cache_seconds=86400&custom_title=TeuzLins%27s%20Github%20Stats"
     alt="My Stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=murilobarbosaa&theme=react&dates=8b8b8b&background=00000000&hide_border=true"
+    src="https://streak-stats.demolab.com?user=TeuzLins&theme=react&dates=8b8b8b&background=00000000&hide_border=true"
     alt="My Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=murilobarbosaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=TeuzLins&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400"
     alt="Top Languages"
   />
 </p> <img
-    src="https://github-stats-extended.vercel.app/api?username=murilobarbosaa&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=00000000&hide_border=true&cache_seconds=86400&custom_title=murilobarbosaa%27s%20Github%20Stats"
+    src="https://github-stats-extended.vercel.app/api?username=Teuzlins&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=00000000&hide_border=true&cache_seconds=86400&custom_title=Teuzlins%27s%20Github%20Stats"
     alt="My Stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=murilobarbosaa&theme=react&dates=8b8b8b&background=00000000&hide_border=true"
+    src="https://streak-stats.demolab.com?user=TeuzLins&theme=react&dates=8b8b8b&background=00000000&hide_border=true"
     alt="My Streak"
   />
 </p>
