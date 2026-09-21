@@ -115,16 +115,37 @@ principles:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TeuzLins&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=28E7FF&icon_color=00B8D9&text_color=C9D1D9&ring_color=28E7FF"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TeuzLins&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=007C91&icon_color=0097A7&text_color=263238&ring_color=007C91"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TeuzLins&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=28E7FF&icon_color=00B8D9&text_color=C9D1D9&ring_color=28E7FF" alt="Mateus's GitHub statistics"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuzLins&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=28E7FF&text_color=C9D1D9"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuzLins&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=007C91&text_color=263238"/>
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuzLins&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=28E7FF&text_color=C9D1D9" alt="Most used languages"/>
-  </picture>
-</div>
+     <img
+    src="https://github-stats-extended.vercel.app/api?username=murilobarbosaa&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=00000000&hide_border=true&cache_seconds=86400&custom_title=TeuzLins%27s%20Github%20Stats"
+    alt="My Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=murilobarbosaa&theme=react&dates=8b8b8b&background=00000000&hide_border=true"
+    alt="My Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=murilobarbosaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400"
+    alt="Top Languages"
+  />
+</p> <img
+    src="https://github-stats-extended.vercel.app/api?username=murilobarbosaa&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=00000000&hide_border=true&cache_seconds=86400&custom_title=murilobarbosaa%27s%20Github%20Stats"
+    alt="My Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=murilobarbosaa&theme=react&dates=8b8b8b&background=00000000&hide_border=true"
+    alt="My Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=murilobarbosaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400"
+    alt="Top Languages"
+  />
+</p>
 
 <br/>
 
