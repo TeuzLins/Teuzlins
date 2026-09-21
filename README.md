@@ -113,10 +113,8 @@ principles:
 
 ## 📊 GitHub signal
 
-<div align="center">
-  <picture>
-     <img
-    src="https://github-stats-extended.vercel.app/api?username=TeuzLins&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=00000000&hide_border=true&cache_seconds=86400&custom_title=TeuzLins%27s%20Github%20Stats"
+ <img
+    src="https://github-stats-extended.vercel.app/api?username=TeuzLins&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=00000000&hide_border=true&cache_seconds=86400&custom_title=Teuzlins%27s%20Github%20Stats"
     alt="My Stats"
   />
   <img
