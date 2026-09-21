@@ -128,28 +128,7 @@ principles:
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=TeuzLins&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400"
     alt="Top Languages"
   />
-</p> <img
-    src="https://github-stats-extended.vercel.app/api?username=Teuzlins&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=00000000&hide_border=true&cache_seconds=86400&custom_title=Teuzlins%27s%20Github%20Stats"
-    alt="My Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=TeuzLins&theme=react&dates=8b8b8b&background=00000000&hide_border=true"
-    alt="My Streak"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=murilobarbosaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
-
-<br/>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TeuzLins&bg_color=00000000&color=28E7FF&line=00B8D9&point=FFFFFF&area=true&area_color=007C91&hide_border=true" alt="GitHub contribution activity graph"/>
-</div>
 
 ## 📡 Let's connect
 
